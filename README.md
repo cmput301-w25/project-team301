@@ -2,10 +2,8 @@
 
 ## Team Members
 
-| Name        | CCID   | GitHub Username |
-| ----------- | ------ | --------------- |
-| [Full Name] | [CCID] | [@username]     |
-| Taha Kamil | tkamil | TahaKamil     |
+| Aditya Patel | aditydi | adityadipakpatel |
+| Taha Kamil | tkamil | TahaKamil        |
 | [Full Name] | [CCID] | [@username]     |
 | [Full Name] | [CCID] | [@username]     |
 | [Full Name] | [CCID] | [@username]     |
