@@ -7,7 +7,7 @@
 | Aditya Patel | adityadi | adityadipakpatel     |
 | Taha Kamil | tkmail | TahaKamil     |
 | Anton Roupassov-Ruiz | roupasso | antonrou     |
-| [Full Name] | [CCID] | [@username]     |
+| Aidan Olsen | arolsen | PossiblyAShrub     |
 | [Full Name] | [CCID] | [@username]     |
 | [Full Name] | [CCID] | [@username]     |
 
