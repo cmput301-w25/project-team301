@@ -1,4 +1,4 @@
-package com.team301.moodapp;
+package com.kernelcrew.moodapp;
 
 import android.os.Bundle;
 

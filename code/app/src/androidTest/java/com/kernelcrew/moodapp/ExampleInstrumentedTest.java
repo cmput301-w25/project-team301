@@ -1,4 +1,4 @@
-package com.team301.moodapp;
+package com.kernelcrew.moodapp;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.team301.moodapp", appContext.getPackageName());
+        assertEquals("com.kernelcrew.moodapp", appContext.getPackageName());
     }
 }
