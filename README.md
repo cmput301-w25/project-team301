@@ -6,7 +6,7 @@
 |---------------------|-----------|--------------------|
 | Aditya Patel        | aditydi   | adityadipakpatel   |
 | Taha Kamil          | tkamil    | TahaKamil          |
-| [Full Name]         | [CCID]    | [@username]        |
+| Anton Roupassov-Ruiz| roupasso    | antonrou        |
 | [Full Name]         | [CCID]    | [@username]        |
 | [Full Name]         | [CCID]    | [@username]        |
 | [Full Name]         | [CCID]    | [@username]        |
