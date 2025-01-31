@@ -7,7 +7,7 @@
 | Aditya Patel | adityadi | adityadipakpatel     |
 | Taha Kamil | tkamil | TahaKamil |
 | Anton Roupassov-Ruiz | roupasso | antonrou     |
-| [Full Name] | [CCID] | [@username]     |
+| James McKinnon | jam10 | jamesMckinnonSchool     |
 | [Full Name] | [CCID] | [@username]     |
 | [Full Name] | [CCID] | [@username]     |
 
