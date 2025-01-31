@@ -1,14 +1,12 @@
-# CMPUT 301 W25 - Team Kernel Crew
+# CMPUT 301 W25 - Team Kernal Crew
 
 ## Team Members
 
-| Name        | CCID   | GitHub Username |
-| ----------- | ------ | --------------- |
-| Aditya Patel | aditydi | adityadipakpatel     |
+| Aditya Patel | aditydi | adityadipakpatel |
+| Taha Kamil | tkamil | TahaKamil        |
 | [Full Name] | [CCID] | [@username]     |
 | [Full Name] | [CCID] | [@username]     |
 | [Full Name] | [CCID] | [@username]     |
-| [Siddhant Goel] | [sgoel3] | [@siddhantgoel7]     |
 | [Full Name] | [CCID] | [@username]     |
 
 ## Project Description
