@@ -32,6 +32,6 @@ I’ve fixed the formatting, but the last four rows still need to be filled out 
 ## Documentation
 
 - [Wiki Link](https://github.com/cmput301-w25/project-kernelcrew/wiki)
-- [Scrum Board]
+- [Scrum Board](https://github.com/orgs/cmput301-w25/projects/65/views/1)
 - [UI Mockups]
 - [UML]
