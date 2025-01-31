@@ -5,7 +5,7 @@
 | Name        | CCID   | GitHub Username |
 | ----------- | ------ | --------------- |
 | Aditya Patel | adityadi | adityadipakpatel     |
-| [Full Name] | [CCID] | [@username]     |
+| Taha Kamil | tkamil | TahaKamil |
 | [Full Name] | [CCID] | [@username]     |
 | [Full Name] | [CCID] | [@username]     |
 | [Full Name] | [CCID] | [@username]     |
