@@ -1,15 +1,17 @@
-# CMPUT 301 W25 - Team Kernel Crew
+# CMPUT 301 W25 - Team Kernal Crew
 
 ## Team Members
 
-| Name        | CCID   | GitHub Username |
-| ----------- | ------ | --------------- |
-| Aditya Patel | adityadi | adityadipakpatel     |
-| Taha Kamil | tkamil | TahaKamil |
-| Anton Roupassov-Ruiz | roupasso | antonrou     |
-| James McKinnon | jam10 | jamesMckinnonSchool     |
-| [Full Name] | [CCID] | [@username]     |
-| [Full Name] | [CCID] | [@username]     |
+| **Full Name**       | **CCID**  | **@username**      |
+|---------------------|-----------|--------------------|
+| Aditya Patel        | aditydi   | adityadipakpatel   |
+| Taha Kamil          | tkamil    | TahaKamil          |
+| Anton Roupassov-Ruiz| roupasso    | antonrou        |
+| Aidan Olsen         | arolsen   | PossiblyAShrub     |
+| Siddhant Goel       | sgoel3    | siddhantgoel7      |
+| James Mckinnon      | jam10    | jamesMckinnonSchool |
+
+I’ve fixed the formatting, but the last four rows still need to be filled out with the appropriate names, CCIDs, and usernames. Let me know if you need further adjustments!
 
 ## Project Description
 
@@ -29,7 +31,7 @@
 
 ## Documentation
 
-- [Wiki Link]
+- [Wiki Link](https://github.com/cmput301-w25/project-kernelcrew/wiki)
 - [Scrum Board]
 - [UI Mockups]
 - [UML]
