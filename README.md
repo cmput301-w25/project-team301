@@ -1,11 +1,11 @@
-# CMPUT 301 W25 - Team [Team Name]
+# CMPUT 301 W25 - Team kernalcrew
 
 ## Team Members
 
 | Name        | CCID   | GitHub Username |
 | ----------- | ------ | --------------- |
 | Aditya Patel | adityadi | adityadipakpatel     |
-| [Full Name] | [CCID] | [@username]     |
+| Taha Kamil | tkmail | TahaKamil     |
 | [Full Name] | [CCID] | [@username]     |
 | [Full Name] | [CCID] | [@username]     |
 | [Full Name] | [CCID] | [@username]     |
