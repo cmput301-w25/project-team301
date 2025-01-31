@@ -2,12 +2,16 @@
 
 ## Team Members
 
-| Aditya Patel | aditydi | adityadipakpatel |
-| Taha Kamil | tkamil | TahaKamil        |
-| [Full Name] | [CCID] | [@username]     |
-| [Full Name] | [CCID] | [@username]     |
-| [Full Name] | [CCID] | [@username]     |
-| [Full Name] | [CCID] | [@username]     |
+| **Full Name**       | **CCID**  | **@username**      |
+|---------------------|-----------|--------------------|
+| Aditya Patel        | aditydi   | adityadipakpatel   |
+| Taha Kamil          | tkamil    | TahaKamil          |
+| [Full Name]         | [CCID]    | [@username]        |
+| [Full Name]         | [CCID]    | [@username]        |
+| [Full Name]         | [CCID]    | [@username]        |
+| [Full Name]         | [CCID]    | [@username]        |
+
+I’ve fixed the formatting, but the last four rows still need to be filled out with the appropriate names, CCIDs, and usernames. Let me know if you need further adjustments!
 
 ## Project Description
 
@@ -27,7 +31,7 @@
 
 ## Documentation
 
-- [Wiki Link]
+- [Wiki Link](https://github.com/cmput301-w25/project-kernelcrew/wiki)
 - [Scrum Board]
 - [UI Mockups]
 - [UML]
