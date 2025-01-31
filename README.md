@@ -8,7 +8,7 @@
 | [Full Name] | [CCID] | [@username]     |
 | [Full Name] | [CCID] | [@username]     |
 | [Full Name] | [CCID] | [@username]     |
-| [Full Name] | [CCID] | [@username]     |
+| [Siddhant Goel] | [sgoel3] | [@siddhantgoel7]     |
 | [Full Name] | [CCID] | [@username]     |
 
 ## Project Description
