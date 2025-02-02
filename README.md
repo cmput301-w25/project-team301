@@ -33,5 +33,5 @@ I’ve fixed the formatting, but the last four rows still need to be filled out 
 
 - [Wiki Link](https://github.com/cmput301-w25/project-kernelcrew/wiki)
 - [Scrum Board](https://github.com/orgs/cmput301-w25/projects/65/views/1)
-- [UI Mockups]
+- [UI Mockups](https://www.figma.com/design/eCa5ZnSU4jZLgUE4boTtz5/Kernel-Crew-Mood-App?t=15209Kt1Vejob1xl-1)
 - [UML]
