@@ -1,6 +1,6 @@
 ---
 name: Requirement
-about: Requirement
+about: Add a requirment for a parent STORY issue.
 title: '[REQUIREMENT] '
 labels: requirement
 ---
