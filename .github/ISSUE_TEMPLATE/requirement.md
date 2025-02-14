@@ -7,7 +7,7 @@ labels: requirement
 
 **Description**
 
-Write a discription of what this task involves.
+Write a description of what this task involves.
 
 **Details**
 
